@@ -14,6 +14,7 @@
 		4288D17A220B818D00A0B059 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4288D178220B818D00A0B059 /* LaunchScreen.storyboard */; };
 		4288D185220B818D00A0B059 /* CostcoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288D184220B818D00A0B059 /* CostcoTests.swift */; };
 		4288D190220B818D00A0B059 /* CostcoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288D18F220B818D00A0B059 /* CostcoUITests.swift */; };
+		42CB58DC220CA30B00C8E761 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42CB58DB220CA30B00C8E761 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4288D18B220B818D00A0B059 /* CostcoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CostcoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4288D18F220B818D00A0B059 /* CostcoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CostcoUITests.swift; sourceTree = "<group>"; };
 		4288D191220B818D00A0B059 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42CB58DB220CA30B00C8E761 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4288D176220B818D00A0B059 /* Assets.xcassets */,
 				4288D178220B818D00A0B059 /* LaunchScreen.storyboard */,
 				4288D17B220B818D00A0B059 /* Info.plist */,
+				42CB58DB220CA30B00C8E761 /* NextViewController.swift */,
 			);
 			path = Costco;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4288D172220B818C00A0B059 /* ViewController.swift in Sources */,
+				42CB58DC220CA30B00C8E761 /* NextViewController.swift in Sources */,
 				4288D170220B818C00A0B059 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
